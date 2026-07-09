@@ -1,0 +1,500 @@
+[
+    {
+        "id": "left-on-laura-left-on-lisa",
+        "title": "Left on Laura Left on Lisa",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "november-blue",
+        "title": "November Blue",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "divorce-separation-blues",
+        "title": "Divorce Separation Blues",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "open-ended-life",
+        "title": "Open Ended Life",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "cheap-coffee",
+        "title": "Cheap Coffee",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "virginia-may",
+        "title": "Virginia May",
+        "artist": "Gregory Alan Isakov",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "sss",
+        "title": "SSS",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "down-with-the-shine",
+        "title": "Down With the Shine",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "a-weakness-and-a-strength",
+        "title": "A Weakness and a Strength",
+        "artist": "Seth Avett",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "friend-of-the-devil",
+        "title": "Friend of the Devil",
+        "artist": "Grateful Dead",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "here-tonight",
+        "title": "Here Tonight",
+        "artist": "Sam Burchfield",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "someday",
+        "title": "Someday",
+        "artist": "Sam Burchfield",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "youve-got-to-hide-your-love-away",
+        "title": "You've Got to Hide Your Love Away",
+        "artist": "The Beatles",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "all-these-roads",
+        "title": "All These Roads",
+        "artist": "Brendan Leary",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "distraction-74",
+        "title": "Distraction 74",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "the-fall",
+        "title": "The Fall",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "signs",
+        "title": "Signs",
+        "artist": "The Avett Brothers",
+        "capo": 0,
+        "tuning": "Standard"
+    },
+    {
+        "id": "pretty-girl-from-san-diego",
+        "title": "Pretty Girl From San Diego",
+        "artist": "The Avett Brothers",
+        "capo": 1,
+        "tuning": "Standard"
+    },
+    {
+        "id": "the-otter",
+        "title": "The Otter",
+        "artist": "Caamp",
+        "capo": 1,
+        "tuning": "Standard"
+    },
+    {
+        "id": "salina",
+        "title": "Salina",
+        "artist": "The Avett Brothers",
+        "capo": 1,
+        "tuning": "Standard"
+    },
+    {
+        "id": "all-my-mistakes",
+        "title": "All My Mistakes",
+        "artist": "The Avett Brothers",
+        "capo": 1,
+        "tuning": "Standard"
+    },
+    {
+        "id": "the-weight-of-lies",
+        "title": "The Weight of Lies",
+        "artist": "The Avett Brothers",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "i-would-be-sad",
+        "title": "I Would be Sad",
+        "artist": "The Avett Brothers",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "denouncing-november-blue",
+        "title": "Denouncing November Blue",
+        "artist": "The Avett Brothers",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "rejects-in-the-attic",
+        "title": "Rejects in the Attic",
+        "artist": "The Avett Brothers",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "please-pardon-yourself",
+        "title": "Please Pardon Yourself",
+        "artist": "The Avett Brothers",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "bella-donna",
+        "title": "Bella Donna",
+        "artist": "The Avett Brothers",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "no-plans",
+        "title": "No Plans",
+        "artist": "Jason Mraz",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "american-beauty",
+        "title": "American Beauty",
+        "artist": "Drew Holomb",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "we-are-loved",
+        "title": "We are loved",
+        "artist": "The Avett Brothers",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "norwegian-wood",
+        "title": "Norwegian Wood",
+        "artist": "The Beatles",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "wagon-wheel",
+        "title": "Wagon Wheel",
+        "artist": "Old Crow Medicine Show",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "nothing-short-of-thankful",
+        "title": "Nothing Short of Thankful",
+        "artist": "The Avett Brothers",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "maria-blondie",
+        "title": "Maria",
+        "artist": "Blondie",
+        "capo": 2,
+        "tuning": "Standard"
+    },
+    {
+        "id": "spring",
+        "title": "Spring",
+        "artist": "Sam Burchfield",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "paranoia-in-bb-major",
+        "title": "Paranoia in Bb Major",
+        "artist": "The Avett Brothers",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "february-seven",
+        "title": "February Seven",
+        "artist": "The Avett Brothers",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "smithsonian",
+        "title": "Smithsonian",
+        "artist": "The Avett Brothers",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "pretty-girl-from-annapolis",
+        "title": "Pretty Girl from Annapolis",
+        "artist": "The Avett Brothers",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "through-my-prayers",
+        "title": "Through my Prayers",
+        "artist": "The Avett Brothers",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "a-song-for-a-neighbor",
+        "title": "A Song for a Neighbor",
+        "artist": "Seth Avett",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "maria-fla",
+        "title": "Maria",
+        "artist": "Frances Luke Accord",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "Sanguine",
+        "title": "Sanguine",
+        "artist": "The Avett Brothers",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "the-greatest-sum",
+        "title": "The Greatest Sum",
+        "artist": "The Avett Brothers",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "i-am-california",
+        "title": "I am California",
+        "artist": "John Craigie",
+        "capo": 3,
+        "tuning": "Standard"
+    },
+    {
+        "id": "ten-thousand-words",
+        "title": "Ten Thousand Words",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "laundry-room",
+        "title": "Laundry Room",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "when-i-drink",
+        "title": "When I Drink",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "skin-and-bones",
+        "title": "Skin and Bones",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "the-ballad-of-love-and-hate",
+        "title": "The Ballad of Love and Hate",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "i-wish-i-was",
+        "title": "I Wish I Was",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "in-the-curve",
+        "title": "In the Curve",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "tear-down-the-house",
+        "title": "Tear Down the House",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "morning-song",
+        "title": "Morning Song",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "the-once-and-future-carpenter",
+        "title": "The Once and Future Carpenter",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "it-was-good-to-see-you",
+        "title": "It Was Good to See You",
+        "artist": "Brendan Leary",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "a-famous-country-singer",
+        "title": "A Famous Country Singer",
+        "artist": "Matt Butcher",
+        "capo": 4,
+        "tuning": "Standard"
+    },
+    {
+        "id": "no-hard-feelings",
+        "title": "No Hard Feelings",
+        "artist": "The Avett Brothers",
+        "capo": 5,
+        "tuning": "Standard"
+    },
+    {
+        "id": "ill-be-around",
+        "title": "I'll Be Around",
+        "artist": "Harbour and Home",
+        "capo": 5,
+        "tuning": "Standard"
+    },
+    {
+        "id": "gem-of-a-woman",
+        "title": "Gem of a Woman",
+        "artist": "Brendan Leary",
+        "capo": 5,
+        "tuning": "Standard"
+    },
+    {
+        "id": "you-can-call-me-al",
+        "title": "You Can Call Me Al",
+        "artist": "Paul Simon",
+        "capo": 5,
+        "tuning": "Standard"
+    },
+    {
+        "id": "diamonds-on-the-soles-of-her-shoes",
+        "title": "Diamonds on the Soles of Her Shoes",
+        "artist": "Paul Simon",
+        "capo": 5,
+        "tuning": "Standard"
+    },
+    {
+        "id": "carolina-when-i-die",
+        "title": "Carolina When I Die",
+        "artist": "Patrick Davis",
+        "capo": 5,
+        "tuning": "Standard"
+    },
+    {
+        "id": "c-sections-and-railway-tressles",
+        "title": "C-Sections and Railway Tressles",
+        "artist": "The Avett Brothers",
+        "capo": 6,
+        "tuning": "Standard"
+    },
+    {
+        "id": "details-in-the-fabric",
+        "title": "Details in the Fabric",
+        "artist": "Jason Mraz",
+        "capo": 6,
+        "tuning": "Standard"
+    },
+    {
+        "id": "august",
+        "title": "August",
+        "artist": "Flipturn",
+        "capo": 6,
+        "tuning": "Standard"
+    },
+    {
+        "id": "the-fire",
+        "title": "The Fire",
+        "artist": "The Avett Brothers",
+        "capo": 7,
+        "tuning": "Standard"
+    },
+    {
+        "id": "11-years-old",
+        "title": "11 Years Old",
+        "artist": "Brendan Leary",
+        "capo": 7,
+        "tuning": "Standard"
+    },
+    {
+        "id": "souls-like-the-wheels",
+        "title": "Souls Like the Wheels",
+        "artist": "The Avett Brothers",
+        "capo": 4,
+        "tuning": "Open C"
+    },
+    {
+        "id": "maria",
+        "title": "Maria",
+        "artist": "Frances Luke Accord",
+        "capo": 5,
+        "tuning":"Open C"
+    },
+    {
+        "id": "howl",
+        "title": "Howl",
+        "artist": "Sam Burchfield",
+        "capo": 0,
+        "tuning": "Drop D"
+    }
+
+]

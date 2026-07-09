@@ -1,0 +1,52 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+    <title>Repertoire</title>
+
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+   
+    <header>
+        <h1>Repertoire</h1>
+        <img src="HD-35.png" alt="Repertoire Logo" class="logo">
+   </header>
+   
+    <main>
+        
+        <div class="capo-toolbar">
+            
+            <div class="dropdown">
+                <select id="capo-select">
+                    <option value="0">No Capo</option>
+                    <option value="1">Capo 1</option>
+                    <option value="2">Capo 2</option>
+                    <option value="3">Capo 3</option>
+                    <option value="4">Capo 4</option>
+                    <option value="5">Capo 5</option>
+                    <option value="6">Capo 6</option>
+                    <option value="7">Capo 7</option>
+                </select>
+                <span class="dropdown-arrow">▼</span>
+            </div>
+
+            <span id="song-count"></span>
+        </div>
+
+        <ul id="song-list"></ul>
+
+    </main>
+
+   <script src="script.js"></script>
+
+</body>
+</html>

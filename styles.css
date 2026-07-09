@@ -1,0 +1,73 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background: #0c01357c;
+    backdrop-filter: blur(10px);
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    border: none;
+    font-family: "Playfair Display";
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+header h1 {
+    transform: scaleY(1.8);
+}
+.logo {
+    width: 75px;
+    height: 100px;
+}
+body {
+    font-family: system-ui;
+    background: rgb(55, 12, 225);
+    color: white;
+    margin: 0;
+}
+.capo-toolbar {
+    display: flex;
+    justify-content: space-between;
+    background: #2a108f7c;
+    padding: 5px 30px 5px 30px;
+    align-items: center;
+}
+ul {
+    padding-top: 10px;
+}
+li {
+    margin-bottom: 10px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-size: 1rem;
+    background: transparent;
+    border-radius: 8px;
+}
+.dropdown select {
+    appearance: none;
+    -webkit-appearance: none;
+    display: block;
+    background: transparent;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 28px 10px 10px;
+    font-size: inherit;
+    color: inherit;
+}
+.dropdown select:focus {
+    outline: none;
+}
+.dropdown-arrow {
+    position: absolute;
+    top: 55%;
+    right: 12px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    font-size: 1rem;
+}
+#song-count {
+    margin-left: 12px;
+    font-size: .9rem;
+}
