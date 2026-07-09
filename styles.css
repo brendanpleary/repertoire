@@ -18,6 +18,7 @@ header h1 {
 .logo {
     width: 75px;
     height: 100px;
+    transform: translateY(-10px);
 }
 body {
     font-family: system-ui;
